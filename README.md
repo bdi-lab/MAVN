@@ -128,7 +128,7 @@ python train_v2.py --exp 'KDD2026' --log_name 'MAVN' --seed 0 --dataset_name 'to
 
 **Note**: We used 10 data splits for evaluation: 0 through 9.
 
-**Please refer to hp_MAVN_KDD2026.pdf for the hyperparameters and detailed experimental settings of the other datasets.**
+**Please refer to [Setup_MAVN_KDD2026.pdf](https://github.com/bdi-lab/MAVN/blob/main/Setup_MAVN_KDD2026.pdf) for the hyperparameter settings for the other datasets.**
 
 ## Licenses
 
