@@ -132,4 +132,4 @@ python train_v2.py --exp 'KDD2026' --log_name 'MAVN' --seed 0 --dataset_name 'to
 
 ## Licenses
 
-All codes in this repository is licensed under the [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+All codes in this repository is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
