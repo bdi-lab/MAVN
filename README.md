@@ -12,7 +12,7 @@ If you use this code, please cite our paper.
 	title={{Learn When and Where to Connect}: Adaptive Virtual Nodes for Dynamic Message Passing on Graphs},
 	booktitle={Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
 	year={2026},
-	pages={}
+	pages={2485-2496}
 }
 ```
 <!--
