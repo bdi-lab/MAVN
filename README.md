@@ -10,7 +10,7 @@ If you use this code, please cite our paper.
 @inproceedings{mavn,
 	author={Jaejun Lee and Joyce Jiyoung Whang},
 	title={{Learn When and Where to Connect}: Adaptive Virtual Nodes for Dynamic Message Passing on Graphs},
-	booktitle={Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+	booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
 	year={2026},
 	pages={2485-2496}
 }
